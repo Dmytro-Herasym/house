@@ -122,11 +122,6 @@ header {
   line-height: 20px;
   color: #ffffff;
 }
-.menu__list a:hover {
-   background-color: orange;
-   border: 1px solid #000;
-   border-radius: 6px;
-}
 .manu__link {
 }
 .header__button {
